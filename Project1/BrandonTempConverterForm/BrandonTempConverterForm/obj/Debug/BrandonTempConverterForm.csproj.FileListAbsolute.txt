@@ -1,0 +1,10 @@
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\bin\Debug\BrandonTempConverterForm.exe.config
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\bin\Debug\BrandonTempConverterForm.exe
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\bin\Debug\BrandonTempConverterForm.pdb
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.csprojAssemblyReference.cache
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.Form1.resources
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.Properties.Resources.resources
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.csproj.GenerateResource.cache
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.csproj.CoreCompileInputs.cache
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.exe
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\BrandonTempConverterForm\obj\Debug\BrandonTempConverterForm.pdb

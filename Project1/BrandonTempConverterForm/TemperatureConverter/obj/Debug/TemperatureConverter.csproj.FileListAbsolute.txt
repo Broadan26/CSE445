@@ -1,0 +1,7 @@
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\bin\TemperatureConverter.dll.config
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\bin\TemperatureConverter.dll
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\bin\TemperatureConverter.pdb
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\obj\Debug\TemperatureConverter.csprojAssemblyReference.cache
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\obj\Debug\TemperatureConverter.dll
+C:\Users\hbpho\source\repos\BrandonTempConverterForm\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
