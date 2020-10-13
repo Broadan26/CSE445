@@ -1,0 +1,10 @@
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\bin\Debug\BrandonWebBrowser.exe.config
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\bin\Debug\BrandonWebBrowser.exe
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\bin\Debug\BrandonWebBrowser.pdb
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.csprojAssemblyReference.cache
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.Properties.Resources.resources
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.csproj.GenerateResource.cache
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.exe
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.pdb
+C:\Users\hbpho\source\repos\BrandonWebBrowser\BrandonWebBrowser\obj\Debug\BrandonWebBrowser.BrandonBrowser.resources
